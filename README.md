@@ -4,9 +4,9 @@ This program uses the COPERT 5 polinome to calculate emissions factors and energ
 and uses the user input for the velocity.
 
 TODO: 
-- Calculate km/lt
-- Calculate CO2/SOx
-- Calculate BC from PM using another input (excel or csv)
-- Output format
-- Make it pretty
+- Calculate km/lt (done)
+- Calculate CO2/SOx (done)
+- Calculate BC from PM using another input (excel or csv) (semi-done)
+- Output format (semi-done)
+- Make it pretty 
 - WebApp
