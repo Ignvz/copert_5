@@ -1,7 +1,6 @@
-# copert_5
-from copertv5 excel to webapp (eventually)
+# Calculation of pollutant emissions in the transport sector
 This program uses the COPERT 5 polinome to calculate emissions factors and energy consumption. It gets the parameter from the official COPERT 5 excel
-and uses the user input for the velocity and mean mileage of the fleet.
+and uses the user input for the velocity and mean mileage of the fleet. Then using the activity data it calculates exhaust and non-exhaust emissions
 
 TODO: 
 - Calculate km/lt (done)
